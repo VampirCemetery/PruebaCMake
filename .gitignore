@@ -1,0 +1,25 @@
+# Archivos de compilación
+build/
+out/
+cmake-build-*/
+
+# Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+
+# Archivos compilados
+*.exe
+*.obj
+*.pdb
+*.dll
+*.lib
+
+# Ninja
+.ninja_deps
+.ninja_log
+
+# Archivos temporales
+*.tmp
+*.log
